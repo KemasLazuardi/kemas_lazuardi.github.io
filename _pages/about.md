@@ -1,8 +1,8 @@
 ---
 layout: about
-title: tentang
+title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Tentang Saya
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
