@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: tentang
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Tentang Saya
 
